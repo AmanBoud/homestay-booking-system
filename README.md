@@ -27,6 +27,6 @@ A simple and clean PHP-based Homestay Booking System designed using XAMPP stack.
    - Import `homestay.sql` from the project (inside `db/` or as provided)
 5. Visit `http://localhost/homestay-booking-system/` in your browser.
 
-## 📂 Folder Structure
+
 
 
